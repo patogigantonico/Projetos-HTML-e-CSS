@@ -1,0 +1,14 @@
+@font-face{
+    font-family: Titulos;
+    src: url(/components/fonts/RoSpritendoSemiboldBeta-vmVwZ.otf) format('opentype');
+}
+
+@font-face {
+    font-family: Paragrafos;
+    src: url(/components/fonts/Panton-BlackCaps.otf) format('opentype');
+}
+
+@font-face {
+    font-family: Creditos;
+    src: url(/components/fonts/sofachrome\ rg.otf) format('opentype');
+}
